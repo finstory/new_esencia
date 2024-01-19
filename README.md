@@ -3,8 +3,8 @@
 > [!IMPORTANT]
 > ### ÍNDICE: <br/>
 > ##### - ENTIDADES: <br/>
->- [Equipos](#equipos) <br/>
->- [Usuarios](#usuarios) <br/>
+>- [Teams](#teams) <br/>
+>- [Users](#users) <br/>
 >- [Roles](#roles) <br/>
 > ##### - FUNCIONALIDADES: <br/>
 >- [Usuario - Común](#usuario-normal) <br/>
